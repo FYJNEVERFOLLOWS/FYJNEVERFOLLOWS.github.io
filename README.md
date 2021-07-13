@@ -1,0 +1,2 @@
+# FYJNEVERFOLLOWS.github.io
+FYJNEVERFOLLOWS's blog
