@@ -1,33 +1,33 @@
-# Education
+## Education
 
-## Ocean University of China (OUC), PRC      2017. 8 ~ 2021. 6
+### Ocean University of China (OUC), PRC      2017. 8 ~ 2021. 6
 
 * B.E.A. in Confidential Management, School of Computer Science and Technology
 
-## Tianjin University (TJU), PRC       2021. 9 ~ 2024. 1
+### Tianjin University (TJU), PRC       2021. 9 ~ 2024. 1
 
 * M.Phil in Computer Science and Technology supervised by **Prof. Longbiao Wang**
 
-# Experiences
+## Experiences
 
-## Anzhi Capital
+### Anzhi Capital
 
 * Software Engineering Intern
 
-## Willing Technology 
+### Willing Technology 
 
 * Backend SDE Intern
 
-# Research Interests
+## Research Interests
 Multi-channel Speech Signal Processing, Speech Separation, Speech Enhancement, Sound Source Localization
 
 
-# Honors and Awards
+## Honors and Awards
 Outstanding Graduates of Shandong Province Department of Education of Shandong Province
 
 National Scholarship Ministry of Education of PRC 2020
 
-# Publications
+## Publications
 Here you can find the list of my publications, as well as the resources associated with them (e.g. slideshows or posters used at conferences, and code when available). You can also check my list of publications on [Google Scholar](https://scholar.google.com.hk/citations?user=S4rcLewAAAAJ&hl=zh-CN).
 
 
@@ -35,7 +35,7 @@ Here you can find the list of my publications, as well as the resources associat
 
 * [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://arxiv.org/abs/2207.07307), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022
 
-# **Links**
+## **Links**
 
 https://github.com/FYJNEVERFOLLOWS
 
@@ -43,7 +43,7 @@ https://www.zhihu.com/people/FYJNEVERFOLLOWS
 
 https://leetcode.cn/u/gentle-we/
 
-# Mooc and Online Courses
+## Mooc and Online Courses
 
 Frank Fu has been cultivating the ability to rapidly learn new concepts and contexts. And he is determined to be a lifelong learner. The followings are the courses he completed.
 
@@ -60,16 +60,16 @@ Frank Fu has been cultivating the ability to rapidly learn new concepts and cont
 [南方科技大学计算机系“C/C++程序设计”](https://www.bilibili.com/video/BV1Vf4y1P7pq)
 
 [PyQt5教程，来自网易云课堂](https://www.bilibili.com/video/BV154411n79k)
-# Book List
+## Book List
 《算法图解》
+《图解HTTP》
+《数学之美》
 
-# **Correspondence**
+## **Correspondence**
 fyjneverfollows [在] GMAIL [点] com
 
 fyjneverfollows [在] 163 [点] com
 
-
-
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank the professors and labmates from CCA lab (Tianjin Key Laboratory of Cognitive Computing and Application), all my teachers and classmates from OUC, as well as the mentor and the leader at Willing Technology during my internship.
