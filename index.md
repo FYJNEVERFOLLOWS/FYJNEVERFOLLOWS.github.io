@@ -8,7 +8,7 @@
 
 ### Tianjin University (TJU), PRC       2021. 9 ~ 2024. 1
 
-* M.Phil in Computer Science and Technology supervised by **Prof. Longbiao Wang**
+* M.Phil in Computer Science and Technology, **CCA lab** (Tianjin Key Laboratory of Cognitive Computing and Application), supervised by **Prof. Longbiao Wang**
 
 ## Experiences
 
