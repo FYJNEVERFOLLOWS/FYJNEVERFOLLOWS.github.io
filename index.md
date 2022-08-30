@@ -23,11 +23,19 @@
 ## Research Interests
 Multi-channel Speech Signal Processing, Speech Separation, Speech Enhancement, Sound Source Localization
 
+## **Links**
+
+https://github.com/FYJNEVERFOLLOWS
+
+https://www.zhihu.com/people/FYJNEVERFOLLOWS
+
+https://leetcode.cn/u/gentle-we/
+
 
 ## Honors and Awards
-Outstanding Graduates of Shandong Province Department of Education of Shandong Province
+Outstanding Graduates of Shandong Province, Department of Education of Shandong Province, 2021
 
-National Scholarship Ministry of Education of PRC 2020
+National Scholarship, Ministry of Education of PRC, 2020
 
 ## Publications
 Here you can find the list of my publications, as well as the resources associated with them (e.g. slideshows or posters used at conferences, and code when available). You can also check my list of publications on [Google Scholar](https://scholar.google.com.hk/citations?user=S4rcLewAAAAJ&hl=zh-CN).
@@ -36,14 +44,6 @@ Here you can find the list of my publications, as well as the resources associat
 * [Iterative Sound Source Localization for Unknown Number of Sources](https://arxiv.org/abs/2206.12273), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022
 
 * [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://arxiv.org/abs/2207.07307), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022
-
-## **Links**
-
-https://github.com/FYJNEVERFOLLOWS
-
-https://www.zhihu.com/people/FYJNEVERFOLLOWS
-
-https://leetcode.cn/u/gentle-we/
 
 ## Mooc and Online Courses
 
@@ -65,7 +65,12 @@ Frank Fu has been cultivating the ability to rapidly learn new concepts and cont
 ## Book List
 《算法图解》
 《图解HTTP》
+《C++ Primer 5th Edition》
+《如何高效学习》
+《浪潮之巅》
 《数学之美》
+《互联网+战略版》
+《人工智能时代》
 
 ## **Correspondence**
 fyjneverfollows [在] GMAIL [点] com
