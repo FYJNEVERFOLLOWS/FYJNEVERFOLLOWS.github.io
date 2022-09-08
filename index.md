@@ -25,11 +25,11 @@ Multi-channel Speech Signal Processing, Speech Separation, Speech Enhancement, S
 
 ## **Links**
 
-https://github.com/FYJNEVERFOLLOWS
+[https://github.com/FYJNEVERFOLLOWS](https://github.com/FYJNEVERFOLLOWS)
 
-https://www.zhihu.com/people/FYJNEVERFOLLOWS
+[Zhihu Personal Homepage](https://www.zhihu.com/people/FYJNEVERFOLLOWS)
 
-https://leetcode.cn/u/gentle-we/
+[Leetcode Personal Homepage](https://leetcode.cn/u/gentle-we/)
 
 
 ## Honors and Awards
