@@ -62,7 +62,7 @@ Frank Fu has been cultivating the ability to rapidly learn new concepts and cont
 [南方科技大学计算机系“C/C++程序设计”](https://www.bilibili.com/video/BV1Vf4y1P7pq)
 
 [PyQt5教程，来自网易云课堂](https://www.bilibili.com/video/BV154411n79k)
-## Book List
+## Recommended Book List 
 《算法图解》
 《图解HTTP》
 《C++ Primer 5th Edition》
