@@ -41,21 +41,29 @@ National Scholarship, Ministry of Education of PRC, 2020
 Here you can find the list of my publications, as well as the resources associated with them (e.g. slideshows or posters used at conferences, and code when available). You can also check my list of publications on [Google Scholar](https://scholar.google.com.hk/citations?user=S4rcLewAAAAJ&hl=zh-CN).
 
 
-* [Iterative Sound Source Localization for Unknown Number of Sources](https://arxiv.org/abs/2206.12273), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022
+* [Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022
 
-* [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://arxiv.org/abs/2207.07307), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022
+* [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022
 
 ## Mooc and Online Courses
 
 Frank Fu has been cultivating the ability to rapidly learn new concepts and contexts. And he is determined to be a lifelong learner. The followings are the courses he completed.
 
+[李宏毅 2021/2022春机器学习](https://www.bilibili.com/video/BV1Wv411h7kN)
+
+[李宏毅《深度学习人类语言处理》(2020)](https://www.bilibili.com/video/BV1QE411p7z3)
+
+[数字语音处理 李琳山 2019](https://www.bilibili.com/video/BV1Gt411V7Pq)
+
+[CS224n 斯坦福深度自然语言处理课](https://www.bilibili.com/video/BV1pt411h7aT)
+
+[《PyTorch深度学习实践》完结合集](https://www.bilibili.com/video/BV1Y7411d7Ys)
+
+[信息论（2019年春）台湾交通大学陈伯宁](https://www.bilibili.com/video/BV14N41197bN)
+
 [【Git教程】《极客Python之Git实用教程》](https://www.bilibili.com/video/BV1bs411N7ny)
 
 [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/BV1mW411i7Qf)
-
-[李宏毅2021/2022春机器学习](https://www.bilibili.com/video/BV1Wv411h7kN)
-
-[李宏毅《深度学习人类语言处理》(2020)](https://www.bilibili.com/video/BV1QE411p7z3)
 
 [【厦门大学】大数据技术原理与应用](https://www.bilibili.com/video/BV1ds41157NS)
 
