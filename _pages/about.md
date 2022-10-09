@@ -25,7 +25,7 @@ My research interest includes multi-channel speech separation and speech enhance
 - *2022.06*: &nbsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
 - *2021.09*: &nbsp;🎉🎉 Joined CCA lab formally! 
 - *2021.06*: &nbsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
-- *2021.06*: &nbsp; Completed my undergraduate defense! 
+- *2021.06*: &nbsp; Completed my undergraduate thesis defense! 
 
 # 📝 Publications 
 
