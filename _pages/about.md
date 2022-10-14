@@ -30,8 +30,8 @@ My research interest includes multi-channel speech separation and speech enhance
 # 📝 Publications 
 
 ## 🎙 Audio and Speech Processing
-- [Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022 [[paper]](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html) [[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [[code]](https://github.com/FYJNEVERFOLLOWS/ISSL)
-- [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022 [[paper]](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html) [[code]](https://github.com/TJU-haoran/VCTK-16k-simulated)
+- [Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html) [🎬[video]]()[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/ISSL)
+- [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html) [💻[code]](https://github.com/TJU-haoran/VCTK-16k-simulated)
 
 
 # 🎖 Honors and Awards
@@ -46,6 +46,6 @@ My research interest includes multi-channel speech separation and speech enhance
 <!-- # 💬 Invited Talks 
 - *2021.03*, .  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💼 Internships
 - *2021.06 - 2021.09*, [Willing Technology](https://www.weiling.cn/), Shanghai.
 - *2021.03 - 2021.06*, [Anzhi Capital](https://www.anzhicapital.com/), Qingdao.
