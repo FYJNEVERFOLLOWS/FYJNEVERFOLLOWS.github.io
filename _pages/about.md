@@ -40,7 +40,7 @@ My research interest includes multi-channel speech separation and speech enhance
 
 
 # 📖 Educations
-- *2021.09 - 2024.01 (now)*, Master of Philosophy, College of Intelligence and Computing, Tianjin University, Tianjin. 
+- *2021.09 - 2024.01 (now)*, Master of Philosophy, Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, Tianjin. 
 - *2017.09 - 2021.06*, Bachelor, College of Computer Science and Technology, Ocean University of China, Qingdao. 
 
 <!-- # 💬 Invited Talks 
