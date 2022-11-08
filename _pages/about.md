@@ -39,7 +39,7 @@ My research interest includes speech separation, speech enhancement and micropho
 - *2020.12* &emsp; National Scholarship (Undergraduate) (Top 1%), Ministry of Education of People's Republic of China.  
 
 
-# 👨‍🎓 Educations
+# 👨‍🎓 Education
 - *2021.09 - 2024.01 (now)*, Master of Philosophy, Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, Tianjin. 
 - *2017.09 - 2021.06*, Bachelor, College of Computer Science and Technology, Ocean University of China, Qingdao. 
 
@@ -47,7 +47,7 @@ My research interest includes speech separation, speech enhancement and micropho
 - *2021.03*, .  \| [\[video\]](https://github.com/) -->
 
 # 📖 Teaching Experiences
-- Teaching Assistant, Speech Information Processing (2021, 2022).
+- Teaching Assistant, Speech Information Processing (2021 Autumn, 2022 Autumn).
 
 # 💼 Internships
 - *2021.06 - 2021.09*, [Willing Technology](https://www.weiling.cn/), Shanghai.
