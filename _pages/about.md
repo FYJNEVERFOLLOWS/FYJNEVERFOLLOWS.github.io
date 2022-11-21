@@ -19,7 +19,7 @@ I graduated from College of [Computer Science and Technology](https://it.ouc.edu
 
 My research interest includes multi-channel speech separation and microphone array signal processing. I have published 2 papers at the top international speech and AI conferences.
 
-I am also a developer of the open-source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and Titouan Parcollet.
+I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/).
 <!-- with <a href='https://scholar.google.com/citations?&user=S4rcLewAAAAJ'><strong><span id='total_cit'>0</span></strong> total google scholar citations</a>. -->
 
 
