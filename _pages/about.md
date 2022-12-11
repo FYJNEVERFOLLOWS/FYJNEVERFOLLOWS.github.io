@@ -24,6 +24,7 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 
 
 # 🔥 News
+- *2022.12*: &nbsp;🎉🎉 Finished my thesis proposal! 
 - *2022.06*: &nbsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
 - *2021.09*: &nbsp;🎉🎉 Joined CCA lab formally! 
 - *2021.06*: &nbsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
