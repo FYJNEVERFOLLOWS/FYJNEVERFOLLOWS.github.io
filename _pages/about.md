@@ -24,11 +24,12 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 Finished my thesis proposal! 
-- *2022.06*: &nbsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
-- *2021.09*: &nbsp;🎉🎉 Joined CCA lab formally! 
-- *2021.06*: &nbsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
-- *2021.06*: &nbsp; Completed my undergraduate thesis defense! 
+- *2022.12*: &emsp;🎉🎉 Finished my MPhil's thesis proposal! 
+- *2022.06*: &emsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
+- *2021.09*: &emsp;🎉🎉 Joined CCA lab formally! 
+- *2021.06*: &emsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
+- *2021.06*: &emsp; Completed my undergraduate thesis defense! 
+- *2020.10*: &emsp; Admitted into the far-field speech recognition group of CCA lab! 
 
 # 📝 Publications 
 
