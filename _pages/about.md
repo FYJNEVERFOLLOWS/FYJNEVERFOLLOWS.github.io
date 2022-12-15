@@ -57,6 +57,9 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 - *2021.06 - 2021.09*, [Willing Technology](https://www.weiling.cn/), Shanghai.
 - *2021.03 - 2021.06*, [Anzhi Capital](https://www.anzhicapital.com/), Qingdao.
 
+# 💯 Certifications
+- IELTS: 7.5 &emsp; 2020
+
 <center>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gQjO4hHduemuAibbLx1mm69deVzeCKRbLOGaDaL5eoU&cl=ffffff&w=a"></script>
     <br> &copy; Yanjie Fu | Last updated: Nov 28th, 2022 | Theme by Yi Ren
