@@ -37,6 +37,9 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 - [Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html) [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/ISSL)
 - [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html)[📰[poster]](https://drive.google.com/file/d/1bTSSorgCL5C4chIGBAmC3Y4nZ6S0-uht/view?usp=sharing) [💻[code]](https://github.com/TJU-haoran/VCTK-16k-simulated)
 
+## 🌪️ Computational Meteorology
+- [Establishing a Cyclone Generator to Study the Rotation and Advance Characteristics of Tornadoes](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html), Yuanzhuo Zeng, **Yanjie Fu**, and Chenglin Lyu, EGU General Assembly 2020 [📜[paper]](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html) 
+
 
 # 🏅 Honors and Awards
 - *2022.12* &emsp; [Kiyoshi Honda](http://cic.tju.edu.cn/info/1168/2093.htm) Speech Science Scholarship, [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html), Tianjin University. 
