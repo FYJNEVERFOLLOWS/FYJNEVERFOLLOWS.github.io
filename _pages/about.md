@@ -13,7 +13,7 @@ redirect_from:
 
 I study at [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html) as a postgraduate now, focusing on DL-based Audio and Signal Processing research. Feel free to reach me at fyjneverfollows[AT]gmail[DOT]com or fyjneverfollows[AT]163[DOT]com.
 
-I graduated from College of [Computer Science and Technology](https://it.ouc.edu.cn/cs/main.htm), Ocean University of China (中国海洋大学计算机科学与技术学院) with a bachelor's degree. Currently, I am pursuing a master of philosophy's degree, supervised by **[Prof. Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)** and **[Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ)** at Tianjin University.
+I graduated from College of [Computer Science and Technology](https://it.ouc.edu.cn/cs/main.htm), Ocean University of China with a bachelor's degree. Currently, I am pursuing a master of philosophy's degree, supervised by **[Prof. Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)** and **[Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ)** at Tianjin University.
 
 <!-- I won the National Scholarship (top 1% of high school undergraduates). -->
 
