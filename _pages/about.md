@@ -34,7 +34,18 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 # 📝 Publications 
 
 ## 🎙️ Audio and Speech Processing
-- [Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html), **Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html) [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/ISSL)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2022</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230309092122.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Iterative Sound Source Localization for Unknown Number of Sources](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html)
+
+**Yanjie Fu**, Meng Ge, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang
+
+[📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/fu22c_interspeech.html) [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/ISSL)
+- We propose an iterative sound source localization approach called ISSL, which can iteratively extract each source's DOA without threshold until the termination criterion is met. Unlike threshold-based algorithms, ISSL designs an active source detector network based on binary classifier to accept residual spatial spectrum and decide whether to stop the iteration. By doing so, our ISSL can deal with an arbitrary number of sources, even more than the number of sources seen during the training stage.
+</div>
+</div>
+
 - [Stream Attention Based U-Net For L3DAS23 Challenge](), Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang and xinyuan qian 
 - [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html), Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang, Interspeech 2022 [📜[paper]](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html)[📰[poster]](https://drive.google.com/file/d/1bTSSorgCL5C4chIGBAmC3Y4nZ6S0-uht/view?usp=sharing) [💻[code]](https://github.com/TJU-haoran/VCTK-16k-simulated)
 
