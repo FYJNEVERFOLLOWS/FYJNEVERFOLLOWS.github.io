@@ -73,8 +73,10 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 
 # 🏅 Honors and Awards
 - *2022.12* &emsp; [Kiyoshi Honda](http://cic.tju.edu.cn/info/1168/2093.htm) Speech Science Scholarship, [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html), Tianjin University. 
-- *2021.06* &emsp; Outstanding Graduate of Shandong Province, Department of Education of Shandong Province. 
-- *2020.12* &emsp; National Scholarship (Undergraduate) (Top 1%), Ministry of Education of People's Republic of China.  
+- *2021.06* &emsp; Outstanding Graduate of Shandong Province (Top 5%), Department of Education of Shandong Province. 
+- *2020.12* &emsp; National Scholarship (Undergraduate) (Top 1%), Ministry of Education of the People's Republic of China.  
+- *2020.08* &emsp; Third Prize in Entrepreneurship Practice in the 11th China College Students Service Outsourcing Innovation and Entrepreneurship Competition, Ministry of Education of the People's Republic of China, Ministry of Commerce of the People's Republic of China, Wuxi Municipal People's Government.  
+- *2019.09* &emsp; Silver Award in the 5th Shandong Province "Internet+" College Students Innovation and Entrepreneurship Competition, Department of Education of Shandong Province. 
 
 
 # 👨‍🎓 Education
