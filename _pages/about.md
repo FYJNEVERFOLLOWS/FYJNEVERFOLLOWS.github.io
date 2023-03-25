@@ -17,19 +17,20 @@ I graduated from College of [Computer Science and Technology](https://it.ouc.edu
 
 <!-- I won the National Scholarship (top 1% of high school undergraduates). -->
 
-My research interest includes multi-channel speech separation and microphone array signal processing. I have published 2 papers at the top international speech and AI conferences.
+My research interest includes multi-channel speech separation and microphone array signal processing. I have published 3 papers at the top international speech and AI conferences.
 
 I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/).
 <!-- with <a href='https://scholar.google.com/citations?&user=S4rcLewAAAAJ'><strong><span id='total_cit'>0</span></strong> total google scholar citations</a>. -->
 
 
 # 🔥 News
+- *2023.02*: &emsp;🎉🎉 Won [3rd place](https://www.l3das.com/icassp2023/results.html) in L3DAS23 Challenge at ICASSP 2023 with my team! 
 - *2022.12*: &emsp;🎉🎉 Finished my MPhil's thesis proposal! 
 - *2022.06*: &emsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
 - *2021.09*: &emsp;🎉🎉 Joined CCA lab formally! 
 - *2021.06*: &emsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
 - *2021.06*: &emsp; Completed my undergraduate thesis defense! 
-- *2020.10*: &emsp; Admitted into the far-field speech recognition group of CCA lab! 
+- *2020.10*: &emsp; Admitted into *Acoustic Signal Processing & Speech Recognition Group* of CCA lab! 
 
 # 📝 Publications 
 
@@ -49,7 +50,7 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">L3DAS23 Challenge at ICASSP 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325095354.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stream Attention Based U-Net For L3DAS23 Challenge]()
+[Stream Attention Based U-Net for L3DAS23 Challenge]()
 
 Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang and Xinyuan Qian 
 </div>
@@ -67,17 +68,8 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 </div>
 
 ## 🌪️ Computational Meteorology
+- [Establishing a Cyclone Generator to Study the Rotation and Advance Characteristics of Tornadoes](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html), Yuanzhuo Zeng, **Yanjie Fu**, and Chenglin Lyu, EGU General Assembly 2020 [📜[paper]](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EGU General Assembly 2020</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325184403.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Establishing a Cyclone Generator to Study the Rotation and Advance Characteristics of Tornadoes](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html)
-
-Yuanzhuo Zeng, **Yanjie Fu**, and Chenglin Lyu
-
-[📜[paper]](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-2372.html) 
-</div>
-</div>
 
 # 🏅 Honors and Awards
 - *2022.12* &emsp; [Kiyoshi Honda](http://cic.tju.edu.cn/info/1168/2093.htm) Speech Science Scholarship, [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html), Tianjin University. 
@@ -104,5 +96,5 @@ Yuanzhuo Zeng, **Yanjie Fu**, and Chenglin Lyu
 
 <center>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gQjO4hHduemuAibbLx1mm69deVzeCKRbLOGaDaL5eoU&cl=ffffff&w=a"></script>
-    <br> &copy; Yanjie Fu | Last updated: Nov 28th, 2022 | Theme by Yi Ren
+    <br> &copy; Yanjie Fu | Last updated: March 25th, 2023 | Theme by Yi Ren
 </center>
