@@ -52,11 +52,11 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 
 [Stream Attention Based U-Net for L3DAS23 Challenge]()
 
-Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang and Xinyuan Qian 
+Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang, Xinyuan Qian 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2022</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325184210.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2022</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325184210.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://www.isca-speech.org/archive/interspeech_2022/yin22b_interspeech.html)
