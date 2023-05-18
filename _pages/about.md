@@ -17,20 +17,20 @@ I graduated from College of [Computer Science and Technology](https://it.ouc.edu
 
 <!-- I won the National Scholarship (top 1% of high school undergraduates). -->
 
-My research interest includes multi-channel speech separation and microphone array signal processing. I have published 3 papers at the top international speech and AI conferences.
+My research interest includes multi-channel speech separation and microphone array signal processing. I have published 4 papers at the top international speech and AI conferences.
 
 <!-- I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/). -->
 <!-- with <a href='https://scholar.google.com/citations?&user=S4rcLewAAAAJ'><strong><span id='total_cit'>0</span></strong> total google scholar citations</a>. -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2023.02*: &emsp;🎉🎉 Won [3rd place](https://www.l3das.com/icassp2023/results.html) in L3DAS23 Challenge at ICASSP 2023 with my team! 
 - *2022.12*: &emsp;🎉🎉 Finished my MPhil's thesis proposal! 
 - *2022.06*: &emsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
 - *2021.09*: &emsp;🎉🎉 Joined CCA lab formally! 
 - *2021.06*: &emsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
 - *2021.06*: &emsp; Completed my undergraduate thesis defense! 
-- *2020.10*: &emsp; Admitted into *Acoustic Signal Processing & Speech Recognition Group* of CCA lab! 
+- *2020.10*: &emsp; Admitted into *Acoustic Signal Processing & Speech Recognition Group* of CCA lab!  -->
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ My research interest includes multi-channel speech separation and microphone arr
 
 [📜[paper]]() [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
 <!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
-- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal. It first estimates discriminable direction and 2D location cues, which imply directions the sources come from in multi views of microphones and their 2D coordinates. These cues are then integrated into location-aware neural beamformer, thus allowing accurate reconstruction of two sources' speech signals. 
+- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues. These cues are then integrated into location-aware neural beamformer, thus allowing accurate reconstruction of two sources' speech signals. 
 </div>
 </div>
 
@@ -63,7 +63,7 @@ My research interest includes multi-channel speech separation and microphone arr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">L3DAS23 Challenge at ICASSP 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325095354.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stream Attention Based U-Net for L3DAS23 Challenge]()
+[Stream Attention Based U-Net for L3DAS23 Challenge](https://ieeexplore.ieee.org/document/10095854)
 
 Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang, Xinyuan Qian 
 [📜[paper]](https://ieeexplore.ieee.org/document/10095854)
