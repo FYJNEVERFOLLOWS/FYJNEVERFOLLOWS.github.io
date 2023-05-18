@@ -44,7 +44,7 @@ My research interest includes multi-channel speech separation and microphone arr
 
 [📜[paper]]() [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
 <!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
-- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues, which are then integrated into location-aware neural beamformer, allowing accurate reconstruction of two sources' speech signals. 
+- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues, which are then integrated into location-aware neural beamformer, allowing accurate reconstruction of two sources' speech. 
 </div>
 </div>
 
