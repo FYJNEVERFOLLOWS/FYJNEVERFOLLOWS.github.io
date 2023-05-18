@@ -44,7 +44,7 @@ My research interest includes multi-channel speech separation and microphone arr
 
 [📜[paper]]() [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
 <!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
-- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues. These cues are then integrated into location-aware neural beamformer, thus allowing accurate reconstruction of two sources' speech signals. 
+- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues, which are then integrated into location-aware neural beamformer, allowing accurate reconstruction of two sources' speech signals. 
 </div>
 </div>
 
@@ -112,5 +112,5 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 
 <center>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gQjO4hHduemuAibbLx1mm69deVzeCKRbLOGaDaL5eoU&cl=ffffff&w=a"></script>
-    <br> &copy; Yanjie Fu | Last updated: April 24th, 2023 | Theme by Yi Ren
+    <br> &copy; Yanjie Fu | Last updated: May 18th, 2023 | Theme by Yi Ren
 </center>
