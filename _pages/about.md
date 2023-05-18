@@ -35,7 +35,7 @@ My research interest includes multi-channel speech separation and microphone arr
 # 📝 Publications 
 
 ## 🎙️ Audio and Speech Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src=https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202304/20230518170955.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202304/20230518170955.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation]()
@@ -66,6 +66,7 @@ My research interest includes multi-channel speech separation and microphone arr
 [Stream Attention Based U-Net for L3DAS23 Challenge]()
 
 Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang, Xinyuan Qian 
+[📜[paper]](https://ieeexplore.ieee.org/document/10095854)
 </div>
 </div>
 
