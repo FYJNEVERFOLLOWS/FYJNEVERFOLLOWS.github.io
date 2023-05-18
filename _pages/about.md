@@ -19,7 +19,7 @@ I graduated from College of [Computer Science and Technology](https://it.ouc.edu
 
 My research interest includes multi-channel speech separation and microphone array signal processing. I have published 3 papers at the top international speech and AI conferences.
 
-I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/).
+<!-- I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/). -->
 <!-- with <a href='https://scholar.google.com/citations?&user=S4rcLewAAAAJ'><strong><span id='total_cit'>0</span></strong> total google scholar citations</a>. -->
 
 
@@ -35,6 +35,19 @@ I am also a contributor of the open source project, [SpeechBrain](https://github
 # 📝 Publications 
 
 ## 🎙️ Audio and Speech Processing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src=https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202304/20230518170955.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation]()
+
+**Yanjie Fu**, Meng Ge, Honglong Wang, Nan Li, Haoran Yin, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Chengyun Deng, Fei Wang
+
+[📜[paper]]() [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
+<!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
+- We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal. It first estimates discriminable direction and 2D location cues, which imply directions the sources come from in multi views of microphones and their 2D coordinates. These cues are then integrated into location-aware neural beamformer, thus allowing accurate reconstruction of two sources' speech signals. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2022</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230309092122.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
