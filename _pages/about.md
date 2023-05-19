@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I study at [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html) as a postgraduate now, focusing on DL-based Audio and Signal Processing research. Feel free to reach me at fyjneverfollows[AT]gmail[DOT]com or fyjneverfollows[AT]163[DOT]com.
+I study at [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html) as a postgraduate now, focusing on DL-based Audio and Speech Signal Processing research. Feel free to reach me at fyjneverfollows[AT]gmail[DOT]com or fyjneverfollows[AT]163[DOT]com.
 
 I graduated from College of [Computer Science and Technology](https://it.ouc.edu.cn/cs/main.htm), Ocean University of China with a bachelor's degree. Currently, I am pursuing a master of philosophy's degree, supervised by **[Prof. Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)** and **[Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ)** at Tianjin University.
 
@@ -38,11 +38,11 @@ My research interest includes multi-channel speech separation and microphone arr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202304/20230518170955.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation]()
+[Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation](https://arxiv.org/abs/2305.10821)
 
 **Yanjie Fu**, Meng Ge, Honglong Wang, Nan Li, Haoran Yin, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Chengyun Deng, Fei Wang
 
-[📜[paper]]() [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
+[📜[paper]](https://arxiv.org/abs/2305.10821) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
 <!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
 - We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues, which are then integrated into location-aware neural beamformer, allowing accurate reconstruction of two sources' speech. 
 </div>
@@ -87,7 +87,7 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 
 
 # 🏅 Honors and Awards
-- *2022.12* &emsp; [Kiyoshi Honda](http://cic.tju.edu.cn/info/1168/2093.htm) Speech Science Scholarship, [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html), Tianjin University. 
+- *2022.12* &emsp; [Kiyoshi Honda](https://ieeexplore.ieee.org/author/37076528200) Speech Science Scholarship, [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html), Tianjin University. 
 - *2021.06* &emsp; Outstanding Graduate of Shandong Province (Top 5%), Department of Education of Shandong Province. 
 - *2020.12* &emsp; National Scholarship (Undergraduate) (Top 1%), Ministry of Education of the People's Republic of China.  
 - *2020.08* &emsp; Third Prize in Entrepreneurship Practice in the 11th China College Students Service Outsourcing Innovation and Entrepreneurship Competition, Ministry of Education of the People's Republic of China, Ministry of Commerce of the People's Republic of China and Wuxi Municipal People's Government.  
@@ -109,7 +109,7 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 - *2021.03 - 2021.06*, [Anzhi Capital](https://www.anzhicapital.com/), Qingdao.
 
 # 💯 Certifications
-- IELTS: 7.5 &emsp; 2020
+- IELTS: 7.5 &emsp; 2020.08
 
 <center>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gQjO4hHduemuAibbLx1mm69deVzeCKRbLOGaDaL5eoU&cl=ffffff&w=a"></script>
