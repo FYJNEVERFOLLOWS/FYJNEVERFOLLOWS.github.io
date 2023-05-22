@@ -15,22 +15,20 @@ I study at [CCA Lab](http://cic.tju.edu.cn/faculty/wanglongbiao/labs.html) as a 
 
 I graduated from College of [Computer Science and Technology](https://it.ouc.edu.cn/cs/main.htm), Ocean University of China with a bachelor's degree. Currently, I am pursuing a master of philosophy's degree, supervised by **[Prof. Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)** and **[Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ)** at Tianjin University.
 
-<!-- I won the National Scholarship (top 1% of high school undergraduates). -->
-
 My research interest includes multi-channel speech separation and microphone array signal processing. I have published 4 papers at the top international speech and AI conferences.
 
 <!-- I am also a contributor of the open source project, [SpeechBrain](https://github.com/speechbrain/speechbrain), working with enthusiastic members including [Mirco Ravanelli](https://sites.google.com/site/mircoravanelli/) and [Titouan Parcollet](http://www.darnault-parcollet.fr/). -->
 <!-- with <a href='https://scholar.google.com/citations?&user=S4rcLewAAAAJ'><strong><span id='total_cit'>0</span></strong> total google scholar citations</a>. -->
 
 
-<!-- # 🔥 News
+# 🔥 News
 - *2023.02*: &emsp;🎉🎉 Won [3rd place](https://www.l3das.com/icassp2023/results.html) in L3DAS23 Challenge at ICASSP 2023 with my team! 
 - *2022.12*: &emsp;🎉🎉 Finished my MPhil's thesis proposal! 
 - *2022.06*: &emsp;🎉🎉 Two papers are accepted by Interspeech 2022! 
 - *2021.09*: &emsp;🎉🎉 Joined CCA lab formally! 
 - *2021.06*: &emsp; Received my bachelor's degree from [OUC](http://www.ouc.edu.cn/main.htm)! 
 - *2021.06*: &emsp; Completed my undergraduate thesis defense! 
-- *2020.10*: &emsp; Admitted into *Acoustic Signal Processing & Speech Recognition Group* of CCA lab!  -->
+- *2020.10*: &emsp; Admitted into *Acoustic Signal Processing & Speech Recognition Group* of CCA lab! 
 
 # 📝 Publications 
 
