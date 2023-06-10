@@ -34,7 +34,7 @@ My research interest includes multi-channel speech separation and microphone arr
 # 📝 Publications 
 
 ## 🎙️ Audio and Speech Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202304/20230518170955.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202305/20230518170955.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation](https://arxiv.org/abs/2305.10821)
@@ -67,6 +67,18 @@ My research interest includes multi-channel speech separation and microphone arr
 Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang, Xinyuan Qian 
 
 [📜[paper]](https://ieeexplore.ieee.org/document/10095854)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325095354.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation]()
+
+
+Honglong Wang, Chengyun Deng, **Yanjie Fu**, Meng Ge, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Fei Wang 
+
+[📜[paper]]()
 </div>
 </div>
 
