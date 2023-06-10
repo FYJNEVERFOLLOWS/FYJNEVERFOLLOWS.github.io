@@ -34,7 +34,7 @@ My research interest includes multi-channel speech separation and microphone arr
 # 📝 Publications 
 
 ## 🎙️ Audio and Speech Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202305/20230518170955.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202306/20230610233303.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation](https://arxiv.org/abs/2305.10821)
