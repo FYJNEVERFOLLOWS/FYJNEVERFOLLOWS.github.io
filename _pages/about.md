@@ -109,8 +109,8 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 - *2021.09 - 2024.01 (now)*, Master of Philosophy, Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, Tianjin. 
 - *2017.09 - 2021.06*, Bachelor, College of Computer Science and Technology, Ocean University of China, Qingdao. 
 
-<!-- # 💬 Invited Talks 
-- *2021.03*, .  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks 
+- *2023.06*, Locating All-neural Beamformer for Multi-channel Speech Separation | [[video]](https://mp.weixin.qq.com/s/UhefxDkTzlS7ZUqBM6t4mg)
 
 # 📖 Teaching Experiences
 - Teaching Assistant, Speech Information Processing (2021 Autumn, 2022 Autumn).
@@ -124,5 +124,5 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 
 <center>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gQjO4hHduemuAibbLx1mm69deVzeCKRbLOGaDaL5eoU&cl=ffffff&w=a"></script>
-    <br> &copy; Yanjie Fu | Last updated: May 18th, 2023 | Theme by Yi Ren
+    <br> &copy; Yanjie Fu | Last updated: July 14th, 2023 | Theme by Yi Ren
 </center>
