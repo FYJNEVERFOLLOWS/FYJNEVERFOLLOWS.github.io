@@ -110,7 +110,7 @@ Haoran Yin, Meng Ge, **Yanjie Fu**, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin 
 - *2017.09 - 2021.06*, Bachelor, College of Computer Science and Technology, Ocean University of China, Qingdao. 
 
 # 💬 Invited Talks 
-- *2023.06*, Locating All-neural Beamformer for Multi-channel Speech Separation | [[Bilibili]](bilibili.com/video/BV19u4y1v7bu) [[WeChat]](https://mp.weixin.qq.com/s/UhefxDkTzlS7ZUqBM6t4mg)
+- *2023.06*, Locating All-neural Beamformer for Multi-channel Speech Separation | [[Bilibili]](https://www.bilibili.com/video/BV19u4y1v7bu) [[WeChat]](https://mp.weixin.qq.com/s/UhefxDkTzlS7ZUqBM6t4mg)
 
 # 📖 Teaching Experiences
 - Teaching Assistant, Speech Information Processing (2021 Autumn, 2022 Autumn).
