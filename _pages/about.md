@@ -73,7 +73,7 @@ Honglong Wang, **Yanjie Fu**, Junjie Li, Meng Ge, Longbiao Wang, Xinyuan Qian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202303/20230325095354.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation]()
+[SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation](https://www.isca-speech.org/archive/interspeech_2023/wang23na_interspeech.html)
 
 
 Honglong Wang, Chengyun Deng, **Yanjie Fu**, Meng Ge, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Fei Wang 
