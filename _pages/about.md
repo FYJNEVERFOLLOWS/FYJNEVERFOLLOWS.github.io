@@ -37,11 +37,11 @@ My research interest includes multi-channel speech separation and microphone arr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='https://raw.githubusercontent.com/FYJNEVERFOLLOWS/Picture-Bed/main/202306/20230610233303.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation](https://arxiv.org/abs/2305.10821)
+[Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation](https://www.isca-speech.org/archive/interspeech_2023/fu23c_interspeech.html)
 
 **Yanjie Fu**, Meng Ge, Honglong Wang, Nan Li, Haoran Yin, Longbiao Wang, Gaoyan Zhang, Jianwu Dang, Chengyun Deng, Fei Wang
 
-[📜[paper]](https://arxiv.org/abs/2305.10821) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
+[📜[paper]](https://www.isca-speech.org/archive/interspeech_2023/fu23c_interspeech.html) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet)
 <!-- [📜[paper]]() [🎬[video]](https://www.bilibili.com/video/BV1kD4y1b75n)[📰[poster]](https://drive.google.com/file/d/1TpxvtH9qwZCaqP2NnKhQ4FAzZqJj83EM/view?usp=sharing) [💻[code]](https://github.com/FYJNEVERFOLLOWS/LaBNet) -->
 - We propose an end-to-end beamforming network for 2D location guided speech separation merely given mixture signal, estimating discriminable direction and 2D location cues, which are then integrated into location-aware neural beamformer, allowing accurate reconstruction of two sources' speech. 
 </div>
